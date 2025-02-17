@@ -5,7 +5,7 @@ homepage: https://github.com/Baseflow/flutter_cached_network_image
 
 environment:
   sdk: ^3.0.0
-  flutter: '>=3.10.0'
+  flutter: '>=3.16.0'
 
 dependencies:
   flutter:

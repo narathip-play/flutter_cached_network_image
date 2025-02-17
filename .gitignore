@@ -96,3 +96,6 @@ example/.flutter-plugins-dependencies
 cached_network_image/example/.flutter-plugins-dependencies
 cached_network_image/example/lib/generated_plugin_registrant.dart
 cached_network_image/.flutter-plugins-dependencies
+
+# FVM Version Cache
+.fvm/
